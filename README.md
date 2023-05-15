@@ -8,3 +8,7 @@ A company producing fiber optic sensors is going to implement the AI techniques 
 There are 4 notebooks in this project. In "FeatureEngineering" I analysed data and created datasets for training and testing models. In "ModelsWater" I trained, tuned and evaluated several regression models for prediction of measurements in water. In "ModelsIzopropanol" I did the same for the second substance.
 
 In notebook "Summary" I included a demonstration of the concept, described implementation and presented results with conclusions.
+
+This is an example of predictions in the project:
+
+![](https://github.com/MStamirski/Optic-sensors/blob/main/sensors.PNG)
